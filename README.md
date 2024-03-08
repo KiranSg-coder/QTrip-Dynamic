@@ -26,8 +26,8 @@
 <h2>1.Home Page</h2>
 <img src="https://github.com/KiranSg-coder/Weatherapp/assets/84786181/a7556324-321d-4fac-87f2-489ecf96eaf1.png"/>
 
-<h2>2.Login Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589302-3ea239e6-a601-4a6c-ae68-ac1523636442.png"  />
+<h2>2.Explore Page</h2>
+<img src="https://github.com/KiranSg-coder/Weatherapp/assets/84786181/644f04e8-c947-4980-a5e4-aaecf1962828.png"  />
 
 <h2>3.Registration Page</h2>
 <img src="https://user-images.githubusercontent.com/109352268/219589432-c9c5b0e6-050f-4386-b294-32e472d90739.png"  />
