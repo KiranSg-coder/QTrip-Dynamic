@@ -29,11 +29,11 @@
 <h2>2.Explore Page</h2>
 <img src="https://github.com/KiranSg-coder/Weatherapp/assets/84786181/644f04e8-c947-4980-a5e4-aaecf1962828.png"  />
 
-<h2>3.Registration Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589432-c9c5b0e6-050f-4386-b294-32e472d90739.png"  />
+<h2>3.Booking Page</h2>
+<img src="https://github.com/KiranSg-coder/Weatherapp/assets/84786181/c664c4c6-bb55-474a-a0c7-9e4c43d8facf.png"  />
 
-<h2>3.Cart Checkout Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589545-2cd5a420-030f-48f9-bd36-d6458b7d457e.png"  />
+<h2>3.Reservation Page</h2>
+<img src="https://github.com/KiranSg-coder/Weatherapp/assets/84786181/067cfdc0-0fe3-445e-8480-cc39816f4e45.png"  />
 
 <hr>
 
