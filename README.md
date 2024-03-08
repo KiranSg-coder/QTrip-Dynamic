@@ -24,7 +24,7 @@
 <hr>
 
 <h2>1.Home Page</h2>
-![Screenshot (173)](https://github.com/KiranSg-coder/Weatherapp/assets/84786181/a7556324-321d-4fac-87f2-489ecf96eaf1)
+<img src="https://github.com/KiranSg-coder/Weatherapp/assets/84786181/a7556324-321d-4fac-87f2-489ecf96eaf1.png"/>
 
 <h2>2.Login Page</h2>
 <img src="https://user-images.githubusercontent.com/109352268/219589302-3ea239e6-a601-4a6c-ae68-ac1523636442.png"  />
